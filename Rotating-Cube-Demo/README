@@ -1,0 +1,6 @@
+Rotating Cube Demo
+
+A quick port of an old project recoded to work with the newest version of JOGL.
+
+This demo requires the JOGL jar files, which can be found:
+http://jogamp.org/jogl/www/
